@@ -1,0 +1,50 @@
+.menu {
+  list-style-type: inherit;
+  margin: 26px 15px;
+  padding: 10px 30px;
+    float: right;
+  background: red;
+  color: white;
+  display: inline-block;
+    
+}
+Body {
+    background-color: black;
+    color: white;
+}
+
+.one {
+    float: left;
+    margin: 60px;
+    padding: inherit;
+    width: 550px;
+
+}
+.two{
+    float: right;
+    margin: 60px;
+    width: 500px;
+    padding: inherit;
+}
+.three {
+    float: left;
+    margin: 60px;
+    width: 550px;
+    padding: inherit;
+
+}
+.four{
+    float: right;
+    margin: 60px;
+    width: 500px;
+    padding: inherit;
+}
+
+h1{
+    color: red;
+}
+
+h2 {
+    color: red;
+}
+
